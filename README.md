@@ -1,6 +1,6 @@
-# Keditance Effect
+# Keditance Laravel Effect
 
-
+## Inheritance and Relationship Abstraction
 ```mermaid gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
