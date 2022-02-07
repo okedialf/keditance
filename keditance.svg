@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   id="graph-div"
    width="500.99881"
    height="367.17648"
-   viewBox="0 1.9073486e-06 500.99881 367.17648"
+   viewBox="0 0 132.55593 97.14878"
    version="1.1"
-   sodipodi:docname="keditance.svg"
+   id="svg1360"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="keditance.svg"
    inkscape:export-filename="/home/okedi/2022/projects/keditance/keditance.png"
    inkscape:export-xdpi="124.55119"
    inkscape:export-ydpi="124.55119"
@@ -15,785 +17,626 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <defs
-     id="defs117">
-    <marker
-       style="overflow:visible;"
-       id="marker56449"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path56447" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="marker55822"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55820" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55812"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55810" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55802"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55800" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55792"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55790" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="marker55782"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55780" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="marker55772"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55770" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55762"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55760" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55732"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55730" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55634"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55632" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker55624"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55622" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55108" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path55111" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(1.1) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
-         id="path55126" />
-    </marker>
-    <marker
-       id="arrowhead1383-3"
-       viewBox="0 0 10 10"
-       refX="9"
-       refY="5"
-       markerUnits="strokeWidth"
-       markerWidth="8"
-       markerHeight="6"
-       orient="auto">
-      <path
-         d="M 0,0 10,5 0,10 Z"
-         class="arrowheadPath"
-         style="stroke-width:1;stroke-dasharray:1, 0"
-         id="path24-6" />
-    </marker>
-    <marker
-       id="marker1332"
-       viewBox="0 0 10 10"
-       refX="9"
-       refY="5"
-       markerUnits="strokeWidth"
-       markerWidth="8"
-       markerHeight="6"
-       orient="auto">
-      <path
-         d="M 0,0 10,5 0,10 Z"
-         class="arrowheadPath"
-         style="stroke-width:1;stroke-dasharray:1, 0"
-         id="path1330" />
-    </marker>
-    <marker
-       id="arrowhead1384-5"
-       viewBox="0 0 10 10"
-       refX="9"
-       refY="5"
-       markerUnits="strokeWidth"
-       markerWidth="8"
-       markerHeight="6"
-       orient="auto">
-      <path
-         d="M 0,0 10,5 0,10 Z"
-         class="arrowheadPath"
-         style="stroke-width:1;stroke-dasharray:1, 0"
-         id="path32-6" />
-    </marker>
-    <marker
-       id="marker1491"
-       viewBox="0 0 10 10"
-       refX="9"
-       refY="5"
-       markerUnits="strokeWidth"
-       markerWidth="8"
-       markerHeight="6"
-       orient="auto">
-      <path
-         d="M 0,0 10,5 0,10 Z"
-         class="arrowheadPath"
-         style="stroke-width:1;stroke-dasharray:1, 0"
-         id="path1489" />
-    </marker>
-  </defs>
   <sodipodi:namedview
-     id="namedview115"
+     id="namedview1362"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2827619"
-     inkscape:cx="259.20633"
-     inkscape:cy="294.28688"
+     units="px"
+     inkscape:zoom="0.41959175"
+     inkscape:cx="345.574"
+     inkscape:cy="196.61969"
      inkscape:window-width="1330"
      inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="graph-div" />
-  <style
-     id="style2">#graph-div { font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;fill:#333; }
-#graph-div .error-icon { fill:#552222; }
-#graph-div .error-text { fill:#552222;stroke:#552222; }
-#graph-div .edge-thickness-normal { stroke-width:2px; }
-#graph-div .edge-thickness-thick { stroke-width:3.5px; }
-#graph-div .edge-pattern-solid { stroke-dasharray:0; }
-#graph-div .edge-pattern-dashed { stroke-dasharray:3; }
-#graph-div .edge-pattern-dotted { stroke-dasharray:2; }
-#graph-div .marker { fill:#333333;stroke:#333333; }
-#graph-div .marker.cross { stroke:#333333; }
-#graph-div svg { font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px; }
-#graph-div .label { font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;color:#333; }
-#graph-div .cluster-label text { fill:#333; }
-.span { color:#333; }
-#graph-div .node rect,#graph-div .node circle,#graph-div .node ellipse,#graph-div .node polygon,#graph-div .node path { fill:#ECECFF;stroke:#9370DB;stroke-width:1px; }
-#graph-div .node .label { text-align:center; }
-#graph-div .node.clickable { cursor:pointer; }
-#graph-div .arrowheadPath { fill:#333333; }
-#graph-div .edgePath .path { stroke:#333333;stroke-width:2.0px; }
-#graph-div .flowchart-link { stroke:#333333;fill:none; }
-#graph-div .edgeLabel { background-color:#e8e8e8;text-align:center; }
-#graph-div .edgeLabel rect { opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8; }
-#graph-div .cluster rect { fill:#ffffde;stroke:#aaaa33;stroke-width:1px; }
-#graph-div .cluster text { fill:#333; }
-.span { color:#333; }
-.div { position:absolute;text-align:center;max-width:200px;padding:2px;font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100; }
-</style>
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1357">
+    <marker
+       style="overflow:visible"
+       id="marker55634"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55632" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55108" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55624"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55622" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55822"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55820" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1437"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1435" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55822-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55820-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2670"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2668" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55624-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55622-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55108-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55634-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55632-2" />
+    </marker>
+  </defs>
   <g
-     class="clusters"
-     id="g4"
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <g
-     class="label"
-     id="g84"
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(184.9994,30)">
-    <g
-       transform="translate(-51.578438,-12)"
-       id="g82"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <foreignObject
-         width="103.15687561035156"
-         height="24">
-        <xhtml:div
-           style="display: inline-block; white-space: nowrap;">Abstract Class</xhtml:div>
-      </foreignObject>
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
      inkscape:label="Layer 1"
-     style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#00ff44;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55822)"
-     d="m 288.98964,234.59213 102.29279,80.58435"
-     id="path56635"
-     inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-start="#g31610"
-     inkscape:connection-end="#g30137" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#00ff44;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55822)"
-     d="M 212.00917,234.59213 109.71638,315.17648"
-     id="path56739"
-     inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-start="#g31610"
-     inkscape:connection-end="#g30145" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker55624)"
-     d="m 250.4994,51.700681 0,103.569559"
-     id="path31816"
-     inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-start="#g30612"
-     inkscape:connection-end="#g31610" />
-  <path
-     style="display:inline;fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
-     d="M 238.42818,51.700681 93.861072,315.17648"
-     id="path31112"
-     inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-start="#g30612"
-     inkscape:connection-end="#g30145" />
-  <path
-     style="display:inline;fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker55634)"
-     d="M 262.57063,51.700681 407.13774,315.17648"
-     id="path31110"
-     inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-end="#g30137"
-     inkscape:connection-start="#g30612" />
-  <g
-     id="g30612"
-     transform="translate(65.499996)">
-    <rect
-       rx="0"
-       ry="0"
-       x="123.42097"
-       y="7.7006807"
-       width="123.15688"
-       height="44"
-       class="label-container"
-       id="rect80"
-       style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="137.30421"
-       y="34.671371"
-       id="text7991"><tspan
-         sodipodi:role="line"
-         id="tspan7989"
-         x="137.30421"
-         y="34.671371"
-         style="font-size:13.3333px;stroke-width:0.318609">Abstract Class </tspan></text>
-  </g>
-  <g
-     id="g30634"
-     transform="translate(21.530756,22.092833)">
+     inkscape:groupmode="layer"
+     id="layer1">
     <g
-       class="edgeLabel"
-       transform="translate(326.49696,183.58824)"
-       id="g58"
-       style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       id="g3211"
+       transform="translate(-113.43541,93.345089)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#00ff44;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55822-3)"
+         d="m 179.71338,-39.258992 44.63773,35.1647769"
+         id="path56635"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g31610"
+         inkscape:connection-end="#g30137" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#00ff44;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55822-3)"
+         d="M 179.71338,-39.258992 135.07564,-4.0942151"
+         id="path56739"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g31610"
+         inkscape:connection-end="#g30145" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker55624-7)"
+         d="m 179.71338,-79.626353 0,40.367361"
+         id="path31816"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g30612"
+         inkscape:connection-end="#g31610" />
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-3)"
+         d="M 176.51953,-79.626353 135.07564,-4.0942151"
+         id="path31112"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g30612"
+         inkscape:connection-end="#g30145" />
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#00e8ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker55634-6)"
+         d="m 182.90722,-79.626353 41.44389,75.5321379"
+         id="path31110"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g30612"
+         inkscape:connection-end="#g30137" />
       <g
-         transform="translate(-28.909317,-12)"
-         class="label"
-         id="g56"
-         style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         id="g30612"
+         transform="matrix(0.26458333,0,0,0.26458333,130.76562,-93.305491)">
         <rect
            rx="0"
-           ry="12"
-           width="57.819"
-           height="24"
-           id="rect54"
-           style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="0"
-           y="0" />
-        <foreignObject
-           width="57.81863021850586"
-           height="24">
-          <xhtml:div
-             style="display: inline-block; white-space: nowrap;">
-            <xhtml:span
-               id="L-L-A-C"
-               class="edgeLabel L-LS-A' L-LE-C">Extends</xhtml:span>
-          </xhtml:div>
-        </foreignObject>
-      </g>
-    </g>
-    <g
-       id="g30620">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="327.24075"
-         y="188.30176"
-         id="text7991-2-0-0-6"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9-62-1"
-           x="327.24075"
-           y="188.30176"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Extends</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g30642"
-     transform="translate(109.46888,24.020436)">
-    <g
-       class="edgeLabel"
-       transform="translate(43.501846,183.58824)"
-       id="g64"
-       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <g
-         transform="translate(-28.909317,-12)"
-         class="label"
-         id="g62"
-         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           rx="0"
-           ry="12"
-           width="57.818634"
-           height="24"
-           id="rect60"
-           style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="0"
-           y="0" />
-        <foreignObject
-           width="57.81863021850586"
-           height="24">
-          <xhtml:div
-             style="display: inline-block; white-space: nowrap;">
-            <xhtml:span
-               id="L-L-A-D"
-               class="edgeLabel L-LS-A' L-LE-D">Extends</xhtml:span>
-          </xhtml:div>
-        </foreignObject>
-      </g>
-    </g>
-    <g
-       id="g30616">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="42.395901"
-         y="188.30176"
-         id="text7991-2-0-0-6-8"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9-62-1-7"
-           x="42.395901"
-           y="188.30176"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Extends</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g57404"
-     transform="translate(4.0803468)">
-    <g
-       id="g31602"
-       transform="translate(-76.954925,-7.0656232)">
-      <g
-         class="edgeLabel"
-         transform="translate(245.0421,278.17648)"
-         id="g70"
-         style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <g
-           transform="translate(-23.129902,-12)"
-           class="label"
-           id="g68"
-           style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-          <rect
-             rx="0"
-             ry="11.937403"
-             width="58.874805"
-             height="23.874805"
-             id="rect66"
-             style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             x="-6.3074956"
-             y="0.062596768" />
-          <foreignObject
-             width="46.259803771972656"
-             height="24">
-            <xhtml:div
-               style="display: inline-block; white-space: nowrap;">
-              <xhtml:span
-                 id="L-L-B-D"
-                 class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
-            </xhtml:div>
-          </foreignObject>
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="244.77908"
-         y="281.98682"
-         id="text7991-2-0-0-6-9"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9-62-1-2"
-           x="244.77908"
-           y="281.98682"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Relates</tspan></text>
-    </g>
-    <g
-       id="g31602-0"
-       transform="translate(79.708831,-6.402662)">
-      <g
-         class="edgeLabel"
-         transform="translate(245.0421,278.17648)"
-         id="g70-2"
-         style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <g
-           transform="translate(-23.129902,-12)"
-           class="label"
-           id="g68-3"
-           style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-          <rect
-             rx="0"
-             ry="11.937403"
-             width="58.874805"
-             height="23.874805"
-             id="rect66-7"
-             style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             x="-6.3074956"
-             y="0.062596768" />
-          <foreignObject
-             width="46.259803771972656"
-             height="24">
-            <xhtml:div
-               style="display: inline-block; white-space: nowrap;">
-              <xhtml:span
-                 id="L-L-B-D"
-                 class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
-            </xhtml:div>
-          </foreignObject>
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="244.77908"
-         y="281.98682"
-         id="text7991-2-0-0-6-9-5"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9-62-1-2-9"
-           x="244.77908"
-           y="281.98682"
-           style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Relates</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g31610"
-     transform="translate(5.5000049)">
-    <g
-       class="node default"
-       id="flowchart-B-1418"
-       transform="translate(244.9994,203.58824)"
-       style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <circle
-         x="-57.58824157714844"
-         y="-22"
-         r="49"
-         class="label-container"
-         id="circle87"
-         style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:0.850868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cx="-7.2265607e-09"
-         cy="0.68199539" />
-      <g
-         class="label"
-         id="g91"
-         style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <g
-           transform="translate(-47.588242,-12)"
-           id="g89"
-           style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-          <foreignObject
-             width="95.17648315429688"
-             height="24">
-            <xhtml:div
-               style="display: inline-block; white-space: nowrap;">Parent Model</xhtml:div>
-          </foreignObject>
-        </g>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="244.97011"
-       y="208.55893"
-       id="text7991-2"><tspan
-         sodipodi:role="line"
-         id="tspan7989-7"
-         x="244.97011"
-         y="208.55893"
-         style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Parent Model</tspan></text>
-  </g>
-  <g
-     id="g57636"
-     transform="translate(-4.5000051)">
-    <g
-       id="g30137"
-       transform="translate(160)">
-      <g
-         class="node default"
-         id="flowchart-C-1420"
-         transform="translate(263.70897,337.17648)"
-         style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           rx="5"
-           ry="5"
-           x="-58.92157"
-           y="-22"
-           width="117.84314"
+           ry="0"
+           x="123.42097"
+           y="7.7006807"
+           width="123.15688"
            height="44"
            class="label-container"
-           id="rect94"
-           style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           id="rect80"
+           style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="137.30421"
+           y="34.671371"
+           id="text7991"><tspan
+             sodipodi:role="line"
+             id="tspan7989"
+             x="137.30421"
+             y="34.671371"
+             style="font-size:13.3333px;stroke-width:0.318609">Abstract Class </tspan></text>
+      </g>
+      <g
+         id="g30634"
+         transform="matrix(0.26458333,0,0,0.26458333,119.13209,-87.460096)">
         <g
-           class="label"
-           id="g98"
+           class="edgeLabel"
+           transform="translate(326.49696,183.58824)"
+           id="g58"
            style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <g
-             transform="translate(-48.92157,-12)"
-             id="g96"
+             transform="translate(-28.909317,-12)"
+             class="label"
+             id="g56"
              style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <rect
+               rx="0"
+               ry="12"
+               width="57.819"
+               height="24"
+               id="rect54"
+               style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               x="0"
+               y="0" />
             <foreignObject
-               width="97.8431396484375"
+               width="57.81863021850586"
                height="24">
               <xhtml:div
-                 style="display: inline-block; white-space: nowrap;">Child Model 2</xhtml:div>
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   id="L-L-A-C"
+                   class="edgeLabel L-LS-A' L-LE-C">Extends</xhtml:span>
+              </xhtml:div>
             </foreignObject>
           </g>
         </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="264.00192"
-         y="342.14716"
-         id="text7991-2-0-3"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9-6"
-           x="264.00192"
-           y="342.14716"
-           style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Child Model 2</tspan></text>
-    </g>
-    <g
-       id="g30145"
-       transform="translate(-20)">
-      <g
-         class="node default"
-         id="flowchart-D-1422"
-         transform="translate(106.28985,337.17648)"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           rx="5"
-           ry="5"
-           x="-58.92157"
-           y="-22"
-           width="117.84314"
-           height="44"
-           class="label-container"
-           id="rect101"
-           style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
-           class="label"
-           id="g105"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+           id="g30620">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="327.24075"
+             y="188.30176"
+             id="text7991-2-0-0-6"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9-62-1"
+               x="327.24075"
+               y="188.30176"
+               style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Extends</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g30642"
+         transform="matrix(0.26458333,0,0,0.26458333,142.39905,-86.950084)">
+        <g
+           class="edgeLabel"
+           transform="translate(43.501846,183.58824)"
+           id="g64"
+           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <g
-             transform="translate(-48.92157,-12)"
-             id="g103"
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             transform="translate(-28.909317,-12)"
+             class="label"
+             id="g62"
+             style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <rect
+               rx="0"
+               ry="12"
+               width="57.818634"
+               height="24"
+               id="rect60"
+               style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               x="0"
+               y="0" />
             <foreignObject
-               width="97.8431396484375"
+               width="57.81863021850586"
                height="24">
               <xhtml:div
-                 style="display: inline-block; white-space: nowrap;">Child Model 1</xhtml:div>
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   id="L-L-A-D"
+                   class="edgeLabel L-LS-A' L-LE-D">Extends</xhtml:span>
+              </xhtml:div>
             </foreignObject>
           </g>
         </g>
+        <g
+           id="g30616">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="42.395901"
+             y="188.30176"
+             id="text7991-2-0-0-6-8"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9-62-1-7"
+               x="42.395901"
+               y="188.30176"
+               style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Extends</tspan></text>
+        </g>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="106.53073"
-         y="342.14716"
-         id="text7991-2-0"><tspan
-           sodipodi:role="line"
-           id="tspan7989-7-9"
-           x="106.53073"
-           y="342.14716"
-           style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Child Model 1</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g31792"
-     transform="translate(5.4999949,31.569455)"
-     style="stroke:none;stroke-opacity:1">
-    <g
-       class="edgeLabel"
-       transform="translate(244.99941,88.549334)"
-       id="g31786"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
-         transform="translate(-28.909317,-12)"
-         class="label"
-         id="g31784"
-         style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <rect
-           rx="0"
-           ry="12"
-           width="57.818634"
-           height="24"
-           id="rect31782"
-           style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="0"
-           y="0" />
-        <foreignObject
-           width="57.81863021850586"
-           height="24">
-          <xhtml:div
-             style="display: inline-block; white-space: nowrap;">
-            <xhtml:span
-               id="L-L-A-B"
-               class="edgeLabel L-LS-A' L-LE-B">Extends</xhtml:span>
-          </xhtml:div>
-        </foreignObject>
+         id="g57404"
+         transform="matrix(0.26458333,0,0,0.26458333,114.515,-93.305491)">
+        <g
+           id="g31602"
+           transform="translate(-76.954925,-7.0656232)">
+          <g
+             class="edgeLabel"
+             transform="translate(245.0421,278.17648)"
+             id="g70"
+             style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <g
+               transform="translate(-23.129902,-12)"
+               class="label"
+               id="g68"
+               style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+              <rect
+                 rx="0"
+                 ry="11.937403"
+                 width="58.874805"
+                 height="23.874805"
+                 id="rect66"
+                 style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 x="-6.3074956"
+                 y="0.062596768" />
+              <foreignObject
+                 width="46.259803771972656"
+                 height="24">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">
+                  <xhtml:span
+                     id="L-L-B-D"
+                     class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
+                </xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="244.77908"
+             y="281.98682"
+             id="text7991-2-0-0-6-9"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9-62-1-2"
+               x="244.77908"
+               y="281.98682"
+               style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Relates</tspan></text>
+        </g>
+        <g
+           id="g31602-0"
+           transform="translate(79.708831,-6.402662)">
+          <g
+             class="edgeLabel"
+             transform="translate(245.0421,278.17648)"
+             id="g70-2"
+             style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <g
+               transform="translate(-23.129902,-12)"
+               class="label"
+               id="g68-3"
+               style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+              <rect
+                 rx="0"
+                 ry="11.937403"
+                 width="58.874805"
+                 height="23.874805"
+                 id="rect66-7"
+                 style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 x="-6.3074956"
+                 y="0.062596768" />
+              <foreignObject
+                 width="46.259803771972656"
+                 height="24">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">
+                  <xhtml:span
+                     id="L-L-B-D"
+                     class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
+                </xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="244.77908"
+             y="281.98682"
+             id="text7991-2-0-0-6-9-5"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9-62-1-2-9"
+               x="244.77908"
+               y="281.98682"
+               style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke-width:0.318609">Relates</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g31610"
+         transform="matrix(0.26458333,0,0,0.26458333,114.89062,-93.305491)">
+        <g
+           class="node default"
+           id="flowchart-B-1418"
+           transform="translate(244.9994,203.58824)"
+           style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <circle
+             x="-57.58824157714844"
+             y="-22"
+             r="49"
+             class="label-container"
+             id="circle87"
+             style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:0.850868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             cx="-7.2265607e-09"
+             cy="0.68199539" />
+          <g
+             class="label"
+             id="g91"
+             style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <g
+               transform="translate(-47.588242,-12)"
+               id="g89"
+               style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+              <foreignObject
+                 width="95.17648315429688"
+                 height="24">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">Parent Model</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="244.97011"
+           y="208.55893"
+           id="text7991-2"><tspan
+             sodipodi:role="line"
+             id="tspan7989-7"
+             x="244.97011"
+             y="208.55893"
+             style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Parent Model</tspan></text>
+      </g>
+      <g
+         id="g57636"
+         transform="matrix(0.26458333,0,0,0.26458333,112.24478,-93.305491)">
+        <g
+           id="g30137"
+           transform="translate(160)">
+          <g
+             class="node default"
+             id="flowchart-C-1420"
+             transform="translate(263.70897,337.17648)"
+             style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <rect
+               rx="5"
+               ry="5"
+               x="-58.92157"
+               y="-22"
+               width="117.84314"
+               height="44"
+               class="label-container"
+               id="rect94"
+               style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <g
+               class="label"
+               id="g98"
+               style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+              <g
+                 transform="translate(-48.92157,-12)"
+                 id="g96"
+                 style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+                <foreignObject
+                   width="97.8431396484375"
+                   height="24">
+                  <xhtml:div
+                     style="display: inline-block; white-space: nowrap;">Child Model 2</xhtml:div>
+                </foreignObject>
+              </g>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="264.00192"
+             y="342.14716"
+             id="text7991-2-0-3"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9-6"
+               x="264.00192"
+               y="342.14716"
+               style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Child Model 2</tspan></text>
+        </g>
+        <g
+           id="g30145"
+           transform="translate(-20)">
+          <g
+             class="node default"
+             id="flowchart-D-1422"
+             transform="translate(106.28985,337.17648)"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <rect
+               rx="5"
+               ry="5"
+               x="-58.92157"
+               y="-22"
+               width="117.84314"
+               height="44"
+               class="label-container"
+               id="rect101"
+               style="fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <g
+               class="label"
+               id="g105"
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+              <g
+                 transform="translate(-48.92157,-12)"
+                 id="g103"
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+                <foreignObject
+                   width="97.8431396484375"
+                   height="24">
+                  <xhtml:div
+                     style="display: inline-block; white-space: nowrap;">Child Model 1</xhtml:div>
+                </foreignObject>
+              </g>
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="106.53073"
+             y="342.14716"
+             id="text7991-2-0"><tspan
+               sodipodi:role="line"
+               id="tspan7989-7-9"
+               x="106.53073"
+               y="342.14716"
+               style="font-size:13.3333px;text-align:center;text-anchor:middle;stroke-width:0.318609">Child Model 1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g31792"
+         transform="matrix(0.26458333,0,0,0.26458333,114.89062,-84.952739)"
+         style="stroke:none;stroke-opacity:1">
+        <g
+           class="edgeLabel"
+           transform="translate(244.99941,88.549334)"
+           id="g31786"
+           style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <g
+             transform="translate(-28.909317,-12)"
+             class="label"
+             id="g31784"
+             style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <rect
+               rx="0"
+               ry="12"
+               width="57.818634"
+               height="24"
+               id="rect31782"
+               style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               x="0"
+               y="0" />
+            <foreignObject
+               width="57.81863021850586"
+               height="24">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   id="L-L-A-B"
+                   class="edgeLabel L-LS-A' L-LE-B">Extends</xhtml:span>
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="244.73639"
+           y="92.525909"
+           id="text31790"><tspan
+             sodipodi:role="line"
+             id="tspan31788"
+             x="244.73639"
+             y="92.525909"
+             style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.318609;stroke-opacity:1">Extends</tspan></text>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.318609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="244.73639"
-       y="92.525909"
-       id="text31790"><tspan
-         sodipodi:role="line"
-         id="tspan31788"
-         x="244.73639"
-         y="92.525909"
-         style="font-size:10.6667px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.318609;stroke-opacity:1">Extends</tspan></text>
   </g>
 </svg>
