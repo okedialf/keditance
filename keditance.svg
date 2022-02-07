@@ -7,16 +7,15 @@
    viewBox="0 0 132.55593 97.14878"
    version="1.1"
    id="svg1360"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="keditance.svg"
    inkscape:export-filename="/home/okedi/2022/projects/keditance/keditance.png"
    inkscape:export-xdpi="124.55119"
    inkscape:export-ydpi="124.55119"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1362"
      pagecolor="#ffffff"
@@ -28,9 +27,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.41959175"
-     inkscape:cx="345.574"
-     inkscape:cy="196.61969"
+     inkscape:zoom="2.3735694"
+     inkscape:cx="94.793942"
+     inkscape:cy="268.58284"
      inkscape:window-width="1330"
      inkscape:window-height="709"
      inkscape:window-x="0"
@@ -274,16 +273,6 @@
                style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                x="0"
                y="0" />
-            <foreignObject
-               width="57.81863021850586"
-               height="24">
-              <xhtml:div
-                 style="display: inline-block; white-space: nowrap;">
-                <xhtml:span
-                   id="L-L-A-C"
-                   class="edgeLabel L-LS-A' L-LE-C">Extends</xhtml:span>
-              </xhtml:div>
-            </foreignObject>
           </g>
         </g>
         <g
@@ -323,16 +312,6 @@
                style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                x="0"
                y="0" />
-            <foreignObject
-               width="57.81863021850586"
-               height="24">
-              <xhtml:div
-                 style="display: inline-block; white-space: nowrap;">
-                <xhtml:span
-                   id="L-L-A-D"
-                   class="edgeLabel L-LS-A' L-LE-D">Extends</xhtml:span>
-              </xhtml:div>
-            </foreignObject>
           </g>
         </g>
         <g
@@ -375,16 +354,6 @@
                  style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  x="-6.3074956"
                  y="0.062596768" />
-              <foreignObject
-                 width="46.259803771972656"
-                 height="24">
-                <xhtml:div
-                   style="display: inline-block; white-space: nowrap;">
-                  <xhtml:span
-                     id="L-L-B-D"
-                     class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
-                </xhtml:div>
-              </foreignObject>
             </g>
           </g>
           <text
@@ -421,16 +390,6 @@
                  style="opacity:1;fill:#00ff44;fill-opacity:1;stroke:none;stroke-width:1.1252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  x="-6.3074956"
                  y="0.062596768" />
-              <foreignObject
-                 width="46.259803771972656"
-                 height="24">
-                <xhtml:div
-                   style="display: inline-block; white-space: nowrap;">
-                  <xhtml:span
-                     id="L-L-B-D"
-                     class="edgeLabel L-LS-B' L-LE-D">Relate</xhtml:span>
-                </xhtml:div>
-              </foreignObject>
             </g>
           </g>
           <text
@@ -470,14 +429,7 @@
             <g
                transform="translate(-47.588242,-12)"
                id="g89"
-               style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-              <foreignObject
-                 width="95.17648315429688"
-                 height="24">
-                <xhtml:div
-                   style="display: inline-block; white-space: nowrap;">Parent Model</xhtml:div>
-              </foreignObject>
-            </g>
+               style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
         <text
@@ -520,14 +472,7 @@
               <g
                  transform="translate(-48.92157,-12)"
                  id="g96"
-                 style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-                <foreignObject
-                   width="97.8431396484375"
-                   height="24">
-                  <xhtml:div
-                     style="display: inline-block; white-space: nowrap;">Child Model 2</xhtml:div>
-                </foreignObject>
-              </g>
+                 style="fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
           </g>
           <text
@@ -567,14 +512,7 @@
               <g
                  transform="translate(-48.92157,-12)"
                  id="g103"
-                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-                <foreignObject
-                   width="97.8431396484375"
-                   height="24">
-                  <xhtml:div
-                     style="display: inline-block; white-space: nowrap;">Child Model 1</xhtml:div>
-                </foreignObject>
-              </g>
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
           </g>
           <text
@@ -613,16 +551,6 @@
                style="opacity:1;fill:#00e8ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                x="0"
                y="0" />
-            <foreignObject
-               width="57.81863021850586"
-               height="24">
-              <xhtml:div
-                 style="display: inline-block; white-space: nowrap;">
-                <xhtml:span
-                   id="L-L-A-B"
-                   class="edgeLabel L-LS-A' L-LE-B">Extends</xhtml:span>
-              </xhtml:div>
-            </foreignObject>
           </g>
         </g>
         <text
