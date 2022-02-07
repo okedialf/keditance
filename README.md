@@ -1,10 +1,9 @@
-# Keditance Laravel Effect
+# Keditance
 
-## Inheritance and Relationship Abstraction
+## Relationship and Inheritance Abstraction
 
 
 ![Keditance illustration](https://raw.githubusercontent.com/okedialf/keditance/develop/keditance.png)
-![Keditance illustration](https://raw.githubusercontent.com/okedialf/keditance/develop/keditance.svg)
 
 
 ```mermaid
